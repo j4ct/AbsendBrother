@@ -1,9 +1,8 @@
-# Ayyware-Full-Fixed-Updated-2019
+# AbsendBrother
 
-I updated this version of ayyware about 1 month ago and decided to post it here.
-some things like anti-aim and pinput are broken.
-fix it yourself, it's an open-source. do whatever you want.
+Open-source attempt to recreate absend fork.
+.text issues fixed, antiaim fixed, resolver fixed.
 
-I had to leave some old indexes to make the aimbot work.
+Broken normalizer on purpose.
 
 credits for: synraw - original ayyware developer.
